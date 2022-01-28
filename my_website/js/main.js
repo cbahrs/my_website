@@ -1,0 +1,1 @@
+/* JavaScript made by Courtney Bahrs, GEOG575, 2022 */
